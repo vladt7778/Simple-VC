@@ -10,7 +10,7 @@ Ever wanted to relax playing your favorite childhood game and not be botherd by 
 - Never get busted by the police, but in case you wanna try, reset the wanted level - **F4**
 - Auto Aim with your mouse with an aimbot - **F6**
 - Flying around the map, even through the buildings - **F10**
-- Be immune from bulelts, fires, explosions and almost anything - **F11**
+- Be immune from bullets, fires, explosions and almost anything - **F11**
 - See through the walls with a wallhack - **F12**
 - Save your favorite location - **ALT + S**
 - Teleport to important and interesting locations as well as your own favorite one - **ALT + 1/2/3/4/5/G**
